@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Leticia Ribeiro 
-
+- Estudante de Engenharia de Computação na UNIFEI 
 <p align="left">
   <img src="https://github-readme-stats-olive-zeta-72.vercel.app/api?username=leticiariib&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
 
