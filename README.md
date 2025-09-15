@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Leticia Ribeiro 
 - Estudante de Engenharia de Computação na UNIFEI 
 <p align="left">
-  <img src="https://github-readme-stats-olive-zeta-72.vercel.app/api?username=leticiariib&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img src="https://readmegit-mocha.vercel.app/api?username=leticiariib&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
 
-  <img src="https://github-readme-stats-olive-zeta-72.vercel.app/api/top-langs/?username=leticiariib&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://readmegit-mocha.vercel.app/api/top-langs/?username=leticiariib&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </p>
 
 <div style="display: inline_block"><br>
