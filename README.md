@@ -1,5 +1,9 @@
-## Olá! Eu sou a Leticia Ribeiro 
-- Estudante de Engenharia de Computação na UNIFEI 
+## oii, eu sou a Letícia Ribeiro :) 
+- **Engenharia de Computação** na Universidade Federal de Itajubá (UNIFEI)  
+- **Iniciação Científica** focada em Inteligência Artificial  
+- **Bolsista PET-TEC** (Programa de Educação Tutorial - Tecnologia)
+- **Projetos de extensão**: ExMachina (tecnologia assistiva) & Saci Baja 
+  
 <p align="left">
   <img src="https://readme-ebon-psi.vercel.app/api?username=leticiariib&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
 
